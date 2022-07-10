@@ -1,0 +1,13 @@
+
+# Вы можете использовать аргументы в любой комбинации разделяя их пробелом:
+# DepartingInPast
+# DepartsBeforeArrives
+# MoreTwoHoursGroundTime
+#
+# Примеры:
+# filters: DepartingInPast
+# filters: DepartingInPast DepartsBeforeArrives
+# filters: DepartingInPast MoreTwoHoursGroundTime
+# filters: DepartingInPast DepartsBeforeArrives MoreTwoHoursGroundTime
+#
+flightFilters: DepartingInPast DepartsBeforeArrives MoreTwoHoursGroundTime
